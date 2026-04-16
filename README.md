@@ -23,7 +23,7 @@ The system supports service advisors in registering customers and vehicles, logg
 ## 👥 Actors
 - **Service Advisor**: Registers customers, cars, and creates repair issues  
 - **Mechanic**: Views assigned issues and updates repair status  
-- **Admin/Manager**: Monitors operations and views reports, register customer  
+- **Admin/Manager**: Monitors operations and views reports, CRUD customer  
 
 ---
 
